@@ -1,51 +1,74 @@
-# 👋 Hi, I’m FixStyleOps
+👋 Hi, I’m FixStyleOps
 
-Engineer focused on building stable systems, automating everything that can be automated, and keeping networks alive even when they try their best not to be.
+Engineering & Automation • product-srv platform • backend • infrastructure
 
-### 🧩 Areas I work with
-- **PWDBOX** — multi-zone secure mailbox & data platform  
-- **Core-Web** — Docker-based website engine  
-- **SysOps / Automation** — scripts, monitoring, cleanup, optimizations  
-- **Networking** — RADIUS, OLT/Switching, ETTH/GPON  
-- **Containers** — Docker, Compose, isolation, orchestration  
+🧩 What I build
 
----
+product-srv Core — modular service framework
 
-## 🚀 Current Projects
+Security Layers — request filters, protective proxies, limiters
 
-### **PWDBOX Platform**
-Multi-zone architecture (`.io`, `.asia`, `.kz`) with:
-- network protection chain (SAZ / access-limiter / firewall-guard)  
-- web-auth interface (UI + CAPTCHA)  
-- backup-local system  
-- zone sync (pwdbox-sync)  
-- corectl admin module  
-- finbox module for billing and analytics  
+Auth Stack — web entry, UI logic, session flow
 
-### **Core-Web**
-A modular engine for running websites inside clean, isolated Docker stacks.  
-Themes, UI frameworks, mobile mode — everything built from scratch.
+Sync Layer — inter-service communication
 
----
+Local Backup Engine — structured storage for service-level data
 
-## 🛠 Tools & Scripts
-I maintain practical utilities for:
-- system audits  
-- FreeRADIUS diagnostics  
-- network tracing  
-- safe cleanup  
-- backup logic  
-- container consistency  
+Containers — isolated environments for each functional module
 
----
+🚀 Current Work
+product-srv
 
-## 🌍 Philosophy
-Build once — run anywhere.  
-Systems must survive outages, handle load spikes, and stay predictable.
+A modular environment designed for:
 
----
+secure service entry
 
-## 📫 Contact
-Feel free to open issues, fork projects, or ask questions.
+traffic shaping & filtering
+
+isolated components
+
+dynamic configuration
+
+portable deployment
+
+multi-zone logic (alpha / beta / gamma)
+
+hidden port mappings & randomization
+
+Automation & Scripting
+
+I maintain tools for:
+
+system checks
+
+cleanup routines
+
+service health diagnostics
+
+container lifecycle management
+
+lightweight sync processes
+
+🛠 Tech zones (internal)
+
+alpha — base runtime
+
+beta — mirror environment
+
+gamma — extended features
+
+(abstract internal segmentation; not tied to geography or domains)
+
+🌍 Philosophy
+
+Minimal exposure.
+Maximum stability.
+Clean architecture.
+Predictable operation.
+
+📫 Contact
+
+Feel free to open issues or explore the repositories.
+Always ready for collaboration on engineering topics.
 
 
