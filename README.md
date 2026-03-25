@@ -1,74 +1,89 @@
-👋 Hi, I’m FixStyleOps
+# 👋 Hi, I’m FixStyleOps
 
-Engineering & Automation • product-srv platform • backend • infrastructure
+Engineering & Automation • backend • infrastructure • distributed systems
 
-🧩 What I build
+---
 
-product-srv Core — modular service framework
+## 🧩 What I build
 
-Security Layers — request filters, protective proxies, limiters
+I design and operate modular backend environments focused on stability, isolation, and predictable behavior.
 
-Auth Stack — web entry, UI logic, session flow
+Core directions:
 
-Sync Layer — inter-service communication
+* **Service frameworks** — modular, container-based architecture
+* **Security layers** — request filtering, access control, traffic shaping
+* **Auth systems** — entry points, UI logic, session flows
+* **Sync layers** — controlled inter-service communication
+* **Backup engines** — structured, service-level data preservation
+* **Infrastructure tooling** — automation, diagnostics, lifecycle control
 
-Local Backup Engine — structured storage for service-level data
+---
 
-Containers — isolated environments for each functional module
+## 🚀 Current work — product-srv
 
-🚀 Current Work
-product-srv
+A modular service environment designed for:
 
-A modular environment designed for:
+* secure service entry
+* traffic filtering and rate control
+* isolated functional components
+* dynamic configuration
+* portable deployment
+* multi-zone logic (alpha / beta / gamma)
+* hidden port mapping & randomization
 
-secure service entry
+---
 
-traffic shaping & filtering
+## 🛠 Automation & scripting
 
-isolated components
+I build and maintain tools for:
 
-dynamic configuration
+* system validation & pre-checks
+* cleanup and recovery routines
+* service health diagnostics
+* container lifecycle management
+* lightweight synchronization processes
 
-portable deployment
+---
 
-multi-zone logic (alpha / beta / gamma)
+## 🧪 Practical focus
 
-hidden port mappings & randomization
+Most of the work is based on real infrastructure scenarios:
 
-Automation & Scripting
+* debugging distributed systems
+* handling partial failures
+* dealing with inconsistent system states
+* restoring service behavior under load
 
-I maintain tools for:
+Key interest areas:
 
-system checks
+* how systems behave under stress
+* what actually happens during incidents
+* how to reconstruct events after the fact
+* how to verify system integrity, not just assume it
 
-cleanup routines
+---
 
-service health diagnostics
+## 🧠 Tech zones (internal model)
 
-container lifecycle management
+* **alpha** — base runtime
+* **beta** — mirrored environment
+* **gamma** — extended features
 
-lightweight sync processes
+*(logical segmentation, not tied to geography)*
 
-🛠 Tech zones (internal)
+---
 
-alpha — base runtime
-
-beta — mirror environment
-
-gamma — extended features
-
-(abstract internal segmentation; not tied to geography or domains)
-
-🌍 Philosophy
+## 🌍 Philosophy
 
 Minimal exposure.
 Maximum stability.
 Clean architecture.
 Predictable operation.
 
-📫 Contact
+---
 
-Feel free to open issues or explore the repositories.
-Always ready for collaboration on engineering topics.
+## 📫 Contact
 
+Open to technical discussions and collaboration.
 
+Feel free to explore repositories or open a discussion.
